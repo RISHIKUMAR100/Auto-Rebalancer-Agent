@@ -1,0 +1,7 @@
+defi-agent/
+├── agent.py (AI logic)
+├── executor.py (trade logic)
+├── rebalance.py (portfolio logic)
+├── config.py
+├── main.py
+├── requirements.txt
